@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @antonkurak
+- 👀 I’m interested in Python, QA, MySQL, Gaming
+- 🌱 I’m currently learning QA, Python
+- 💞️ I’m looking to internship on QA or Python projects
+- 📫 How to reach me +79099258888, anton.kurak@gmail.com, insta: anton_kurak
